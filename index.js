@@ -1,0 +1,1 @@
+module.exports = () => console.log('This console log comes from inside the GitHub package registry');
