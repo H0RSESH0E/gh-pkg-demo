@@ -1,7 +1,7 @@
 {
-  "name": "@H0RSESH0E/gh-pkg-demo",
+  "name": "@h0rsesh0e/gh-pkg-demo",
   "repository": {
-    "url" : "git://github.com/H0RSESH0E/gh-phg-demo.git"
+    "url" : "git://github.com/h0rsesh0e/gh-phg-demo.git"
   },
   "version": "1.0.0",
   "description": "",
